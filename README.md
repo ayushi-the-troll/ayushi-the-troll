@@ -1,6 +1,7 @@
-## Hey, my name is Ayushi 👋 
+## hey, my name is ayushi 👋 
 - preferred pronouns: she/her
-- currently working on cybersecurity, Athena Award, and Aurora Hackathon 💖
+- currently working on cybersecurity, athena award, and aurora hackathon 💖
+- also currently interested in fantasy reading recs
 
 <!--
 **ayushi-the-troll/ayushi-the-troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
